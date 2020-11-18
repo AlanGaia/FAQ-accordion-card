@@ -59,6 +59,11 @@ body{
   font-size: 1rem;
   width: 100%;
   text-align: start;
+  margin: 6px;
+}
+
+.answer{
+  margin: 15px;
 }
 
 .question:hover{
